@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 640" width="420" height="640" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14">
+  <title>Illustrative conversation with the Pleni bot (fictional data)</title>
+  <rect width="420" height="640" rx="18" fill="#efe7dd"/>
+  <rect width="420" height="56" rx="18" fill="#1f6f5c"/>
+  <rect y="38" width="420" height="18" fill="#1f6f5c"/>
+  <circle cx="34" cy="28" r="16" fill="#d9efe8"/>
+  <text x="34" y="33" text-anchor="middle" font-weight="700" fill="#1f6f5c">P</text>
+  <text x="60" y="25" fill="#ffffff" font-weight="600" font-size="15">Pleni</text>
+  <text x="60" y="42" fill="#cfe8e0" font-size="12">scheduling assistant</text>
+
+  <!-- bot: schedule notice -->
+  <rect x="14" y="72" width="300" height="150" rx="10" fill="#ffffff"/>
+  <text x="26" y="96" fill="#1c1c1c">Hi Marina! You've been scheduled:</text>
+  <text x="26" y="122" fill="#1c1c1c" font-weight="700">Sunday, Nov 29 at 6pm</text>
+  <text x="26" y="144" fill="#1c1c1c">Sunday Service</text>
+  <text x="26" y="166" fill="#1c1c1c">Worship Band · Bass</text>
+  <text x="26" y="192" fill="#1c1c1c">Can you serve?</text>
+  <text x="302" y="212" text-anchor="end" fill="#8a8a8a" font-size="11">10:02</text>
+  <rect x="14" y="228" width="146" height="34" rx="10" fill="#ffffff"/>
+  <text x="87" y="250" text-anchor="middle" fill="#1f6f5c" font-weight="600">Accept</text>
+  <rect x="168" y="228" width="146" height="34" rx="10" fill="#ffffff"/>
+  <text x="241" y="250" text-anchor="middle" fill="#1f6f5c" font-weight="600">Decline</text>
+
+  <!-- user -->
+  <rect x="150" y="280" width="256" height="62" rx="10" fill="#d9fdd3"/>
+  <text x="162" y="304" fill="#1c1c1c">I can't that day, I'll be travelling.</text>
+  <text x="162" y="324" fill="#1c1c1c">Am I on for any other Sunday?</text>
+  <text x="394" y="336" text-anchor="end" fill="#6f8f6a" font-size="11">10:05</text>
+
+  <!-- bot -->
+  <rect x="14" y="358" width="320" height="150" rx="10" fill="#ffffff"/>
+  <text x="26" y="382" fill="#1c1c1c">Done. I declined Nov 29 and told your</text>
+  <text x="26" y="402" fill="#1c1c1c">leader the reason.</text>
+  <text x="26" y="430" fill="#1c1c1c">You have one more schedule, already</text>
+  <text x="26" y="450" fill="#1c1c1c">accepted:</text>
+  <text x="26" y="476" fill="#1c1c1c" font-weight="700">Sunday, Dec 13 at 10am</text>
+  <text x="26" y="496" fill="#1c1c1c">Sunday Service · Worship Band · Bass</text>
+  <text x="322" y="500" text-anchor="end" fill="#8a8a8a" font-size="11">10:05</text>
+
+  <!-- user -->
+  <rect x="236" y="526" width="170" height="40" rx="10" fill="#d9fdd3"/>
+  <text x="248" y="550" fill="#1c1c1c">Great, thank you!</text>
+  <text x="394" y="560" text-anchor="end" fill="#6f8f6a" font-size="11">10:06</text>
+
+  <text x="210" y="616" text-anchor="middle" fill="#7a6f62" font-size="12">Illustrative conversation · fictional data · translated from Portuguese</text>
+</svg>
